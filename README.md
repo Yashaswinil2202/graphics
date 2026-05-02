@@ -6,7 +6,7 @@ The design is generated using loops, angle rotations, and color transitions to p
 ##  Output
 Below is the generated pattern:
 
-![Turtle Art](your-image-link-here)
+![Turtle Art](https://github.com/Yashaswinil2202/graphics/blob/main/Screenshot%202026-05-03%20001951.png)
 
 ##  Technologies Used
 - Python
